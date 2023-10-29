@@ -9,7 +9,7 @@ Version: BlackPearl BETA.2020x
 ``` 
 
 ```
-## Author:
+#### Author:
 ```
 (Student
 EPITA)
